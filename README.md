@@ -19,8 +19,6 @@
 - 🎯 Goal: Master **DSA + System Design + Modern Web Development**
 - ⚡ Fun fact: I enjoy optimizing both algorithms and webpack configs 😄
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="left">
@@ -50,8 +48,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"/>
 </div>
-
----
 
 <h2 align="left">🌐 Connect With Me</h2>
 
@@ -89,13 +85,13 @@
   </a>
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://streak-stats.demolab.com?user=AnkitnMittal&theme=tokyonight&hide_border=true" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkitnMittal&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitnMittal&theme=radical">
+<img width="48%" src="https://streak-stats.demolab.com?user=AnkitnMittal&theme=radical&hide_border=true" />
 
 <br>
 
@@ -103,15 +99,11 @@
 
 </div>
 
----
-
 ## 👾 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitnMittal/AnkitnMittal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkitnMittal/AnkitnMittal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnkitnMittal/AnkitnMittal/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pacman animation" />
+</div>
 
 ---
 
@@ -121,8 +113,6 @@
 - 🧠 Solving DSA problems daily (Codeforces / AtCoder)
 - 🏗️ Learning scalable frontend architecture
 - 📘 Studying clean coding & ESLint configurations deeply
-
----
 
 ## 🎯 2026 Goals
 
