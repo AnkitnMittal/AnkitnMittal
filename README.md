@@ -102,8 +102,11 @@
 ## 👾 Contribution Activity
 
 <div align="center">
-    ![snake gif](https://github.com/AnkitnMittal/AnkitnMittal/blob/output/github-snake-dark.svg)
+
+  ![snake gif](https://github.com/AnkitnMittal/AnkitnMittal/blob/output/github-snake-dark.svg)
 </div>
+
+
 
 ---
 
