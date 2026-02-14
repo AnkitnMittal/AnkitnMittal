@@ -52,37 +52,10 @@
 <h2 align="left">🌐 Connect With Me</h2>
 
 <div align="center" style="margin: 12px 0;">
-  <a href="https://www.linkedin.com/in/ankit-mittal-71a5b2340/" target="_blank" rel="noopener">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
-      alt="LinkedIn"
-      style="height:36px; margin:0 8px; vertical-align:middle;"
-    />
-  </a>
-
-  <a href="https://github.com/AnkitnMittal" target="_blank" rel="noopener">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
-      alt="GitHub"
-      style="height:36px; margin:0 8px; vertical-align:middle;"
-    />
-  </a>
-
-  <a href="https://codeforces.com/profile/itsquixel" target="_blank" rel="noopener">
-    <img
-      src="https://img.shields.io/badge/Codeforces-2F74B5?logo=codeforces&logoColor=white&style=for-the-badge"
-      alt="Codeforces"
-      style="height:36px; margin:0 8px; vertical-align:middle;"
-    />
-  </a>
-
-  <a href="https://leetcode.com/u/AnkitnMittal/" target="_blank" rel="noopener">
-    <img
-      src="https://img.shields.io/badge/LeetCode-F79F1B?logo=leetcode&logoColor=white&style=for-the-badge"
-      alt="LeetCode"
-      style="height:36px; margin:0 8px; vertical-align:middle;"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/ankit-mittal-71a5b2340/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" style="height:36px; margin:0 8px; vertical-align:middle;" /></a>
+  <a href="https://github.com/AnkitnMittal" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" style="height:36px; margin:0 8px; vertical-align:middle;" /></a>
+  <a href="https://codeforces.com/profile/itsquixel" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Codeforces-2F74B5?logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces" style="height:36px; margin:0 8px; vertical-align:middle;" /></a>
+  <a href="https://leetcode.com/u/AnkitnMittal/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LeetCode-F79F1B?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" style="height:36px; margin:0 8px; vertical-align:middle;" /></a>
 </div>
 
 ## 📊 GitHub Stats
