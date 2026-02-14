@@ -75,11 +75,11 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=AnkitnMittal&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" />
+<img width="48%" src="https://streak-stats.demolab.com?user=AnkitnMittal&theme=tokyonight&hide_border=true" />
 
-  <br><br>
+<br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitnMittal&theme=redical&area=false&hide_border=false&hide_title=false" height="150" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitnMittal&theme=redical&hide_border=true" />
 
 </div>
 
