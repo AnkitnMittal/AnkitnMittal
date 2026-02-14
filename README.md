@@ -102,7 +102,7 @@
 ## 👾 Contribution Activity
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pacman animation" />
+    ![snake gif](https://github.com/AnkitnMittal/AnkitnMittal/blob/output/github-snake-dark.svg)
 </div>
 
 ---
