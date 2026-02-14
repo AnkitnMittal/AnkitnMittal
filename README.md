@@ -10,7 +10,7 @@
 
 <img align="right" height="175" src="https://codeforces.com/userpic.codeforces.org/4870011/title/8333ad29943bb98e.jpg" />
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 💻 Passionate about **Competitive Programming & Problem Solving**
 - 🧠 Primary Language: **C++**
