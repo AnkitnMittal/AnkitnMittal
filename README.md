@@ -14,10 +14,10 @@
 
 - 💻 Passionate about **Competitive Programming & Problem Solving**
 - 🧠 Primary Language: **C++**
-- 🌱 Currently learning **Advanced JavaScript & Webpack Architecture**
+- 🌱 Currently learning **Vanilla JavaScript & NPM (Webpack)**
 - 🛠️ Building scalable frontend setups and dev-tooling templates
 - 🎯 Goal: Master **DSA + System Design + Modern Web Development**
-- ⚡ Fun fact: I enjoy optimizing both algorithms and webpack configs 😄
+- ⚡ Fun fact: I enjoy optimizing both algorithms and configs
 
 ## 🛠️ Tech Stack
 
@@ -88,11 +88,9 @@
 - 🔧 Improving my **Webpack Starter Template**
 - 🧠 Solving DSA problems daily (Codeforces / AtCoder)
 - 🏗️ Learning scalable frontend architecture
-- 📘 Studying clean coding & ESLint configurations deeply
 
 ## 🎯 2026 Goals
 
 - Reach higher rating in Competitive Programming
-- Master TypeScript & React (with separate config branch 😉)
-- Build production-ready frontend boilerplates
+- Master TypeScript & React
 - Contribute to open source consistently
